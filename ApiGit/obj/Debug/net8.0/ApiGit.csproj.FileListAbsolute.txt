@@ -1,0 +1,14 @@
+C:\Users\pedro\Desktop\Faculdade\Aula-Sexta\lista-06\ApiGit\bin\Debug\net8.0\ApiGit.exe
+C:\Users\pedro\Desktop\Faculdade\Aula-Sexta\lista-06\ApiGit\bin\Debug\net8.0\ApiGit.deps.json
+C:\Users\pedro\Desktop\Faculdade\Aula-Sexta\lista-06\ApiGit\bin\Debug\net8.0\ApiGit.runtimeconfig.json
+C:\Users\pedro\Desktop\Faculdade\Aula-Sexta\lista-06\ApiGit\bin\Debug\net8.0\ApiGit.dll
+C:\Users\pedro\Desktop\Faculdade\Aula-Sexta\lista-06\ApiGit\bin\Debug\net8.0\ApiGit.pdb
+C:\Users\pedro\Desktop\Faculdade\Aula-Sexta\lista-06\ApiGit\obj\Debug\net8.0\ApiGit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Desktop\Faculdade\Aula-Sexta\lista-06\ApiGit\obj\Debug\net8.0\ApiGit.AssemblyInfoInputs.cache
+C:\Users\pedro\Desktop\Faculdade\Aula-Sexta\lista-06\ApiGit\obj\Debug\net8.0\ApiGit.AssemblyInfo.cs
+C:\Users\pedro\Desktop\Faculdade\Aula-Sexta\lista-06\ApiGit\obj\Debug\net8.0\ApiGit.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\Faculdade\Aula-Sexta\lista-06\ApiGit\obj\Debug\net8.0\ApiGit.dll
+C:\Users\pedro\Desktop\Faculdade\Aula-Sexta\lista-06\ApiGit\obj\Debug\net8.0\refint\ApiGit.dll
+C:\Users\pedro\Desktop\Faculdade\Aula-Sexta\lista-06\ApiGit\obj\Debug\net8.0\ApiGit.pdb
+C:\Users\pedro\Desktop\Faculdade\Aula-Sexta\lista-06\ApiGit\obj\Debug\net8.0\ApiGit.genruntimeconfig.cache
+C:\Users\pedro\Desktop\Faculdade\Aula-Sexta\lista-06\ApiGit\obj\Debug\net8.0\ref\ApiGit.dll
